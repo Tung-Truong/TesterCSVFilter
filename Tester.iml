@@ -32,5 +32,18 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Downloads/javacsv2.1.zip!/doc" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Downloads/javacsv2.1.zip!/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="opencsv-4.1" level="project" />
+    <orderEntry type="library" name="commons-lang3-3.7" level="project" />
   </component>
 </module>
